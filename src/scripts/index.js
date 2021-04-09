@@ -5,3 +5,8 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 console.log('webpack starterkit');
+
+console.log('Hello World');
+console.log('Hello World');
+console.log('Hello World');
+console.log('Hello World');
